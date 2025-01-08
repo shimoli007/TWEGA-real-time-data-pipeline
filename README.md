@@ -1,7 +1,7 @@
 ```markdown
-# Twiga Foods Data Pipeline Demo
+# TWEGA Data Pipeline Demo
 
-A demonstration of real-time order processing and inventory management system for Twiga Foods interview preparation. This project simulates handling orders from multiple vendors while tracking inventory and revenue in real-time.
+A demonstration of real-time order processing and inventory management system for TWEGA Foods interview preparation. This project simulates handling orders from multiple vendors while tracking inventory and revenue in real-time.
 
 ## Project Overview
 The system demonstrates the ability to:
@@ -26,7 +26,7 @@ Built using:
 
 ## Sample Output
 ```
-=== Starting Twiga Foods Order Processing Demo ===
+=== Starting TWEGA Foods Order Processing Demo ===
 
 Current Statistics:
 Total Orders: 20
