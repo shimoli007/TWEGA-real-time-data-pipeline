@@ -1,5 +1,3 @@
-Yes, absolutely! Here's a well-formatted README.md content that you can copy and paste directly into GitHub's web interface:
-
 ```markdown
 # Twiga Foods Data Pipeline Demo
 
